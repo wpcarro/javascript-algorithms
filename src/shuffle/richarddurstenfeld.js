@@ -3,8 +3,8 @@
   'use strict';
 
   /**
-   * Shuffle of an array elements.
-   * This algorithm is modified version of Fisher-Yates shuffle
+   * Shuffle of an array's elements.
+   * This algorithm is a modified version of the Fisher-Yates shuffle
    * algorithm and is introduced by Richard Durstenfeld.<br><br>
    * Time complexity: O(N).
    *
